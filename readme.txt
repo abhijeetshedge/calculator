@@ -1,0 +1,1 @@
+This is project for simple arithmatic calculator
